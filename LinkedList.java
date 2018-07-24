@@ -1,5 +1,4 @@
 /*This class define a linked list that stores integer values.*/
-//provided code LinkedList
 public class LinkedList
 {
    private Node head, tail;
