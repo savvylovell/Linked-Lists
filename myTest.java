@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//provided code myTest
 public class myTest
 {
    public static void main (String[] args)
