@@ -15,7 +15,7 @@ public class myTest
       System.out.println();
       System.out.println("Input String: This is a test string");
       System.out.println("Reversed String: string test a is This");
-   //Write code to tast each completed method in class LinkedList
+   //Write code to test each completed method in class LinkedList
       System.out.println("After adding nodes at end : ");
       myList.printList();
       myList.addFirstNode(25);
