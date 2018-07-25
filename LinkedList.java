@@ -22,7 +22,6 @@ public class LinkedList
       }
       size++; //increase list size by one
    }
-//================= your part to complete ==============
 //method add first node
    public void addFirstNode(int data)
    {
@@ -114,7 +113,6 @@ public class LinkedList
          size--;
       }
    }
-//================= end of your part ==============
 //method to print out the list
    public void printList() 
    {
